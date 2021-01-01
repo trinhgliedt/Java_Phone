@@ -1,4 +1,4 @@
-# Jave_Phone
+# Java_Phone
 A demonstration of Java OOP
 
 Use Abstract classes and Interfaces to create 2 types of phones: iPhone and Galaxy.
